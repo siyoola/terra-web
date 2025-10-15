@@ -28,11 +28,10 @@ const AboutSectionTwo = () => {
             <div className="max-w-[470px]">
               <div className="mb-9">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Bug free code
+                  Why Businesses in Tripoli Trust Terra
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Terra keeps printers and security networks running reliably with quick response and proactive care. Our local team minimizes downtime, lowers costs, and secures your office.
                 </p>
               </div>
               <div className="mb-9">
@@ -40,17 +39,15 @@ const AboutSectionTwo = () => {
                   Premier support
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt.
+                  Our support team is available across Tripoli with SLA-backed response times, on-site repairs, and priority replacement parts. We treat every ticket with urgency — from stuck print jobs to mission-critical camera failures.
                 </p>
               </div>
               <div className="mb-1">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Next.js
+                  Proactive maintenance
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt
-                  consectetur adipiscing elit setim.
+                  Our proactive maintenance services ensure that your printers and security systems are always running smoothly. We conduct regular check-ups and address potential issues before they become problems.
                 </p>
               </div>
             </div>

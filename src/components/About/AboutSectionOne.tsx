@@ -24,8 +24,8 @@ const AboutSectionOne = () => {
           <div className="-mx-4 flex flex-wrap items-center">
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
-                title="Crafted for Startup, SaaS and Business Sites."
-                paragraph="The main ‘thrust’ is to focus on educating attendees on how to best protect highly vulnerable business applications with interactive panel discussions and roundtables."
+                title="Your Trusted Partner in IT & Telecom Transformation"
+                paragraph="Headquartered in Tripoli, Terra is a specialized IT and Telecom services company. We combine reliable managed office solutions with deep expertise in telco system integration, helping enterprises and public sector organizations thrive in the digital era."
                 mb="44px"
               />
 
@@ -35,15 +35,13 @@ const AboutSectionOne = () => {
               >
                 <div className="mx-[-12px] flex flex-wrap">
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Premium quality" />
-                    <List text="Tailwind CSS" />
-                    <List text="Use for lifetime" />
+                    <List text="Vendor-agnostic approach" />
+                    <List text="SLA-backed services" />
                   </div>
 
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Next.js" />
-                    <List text="Rich documentation" />
-                    <List text="Developer friendly" />
+                    <List text="Expertise in both IT and Telecom" />
+                    <List text="Proven government & enterprise experience" />
                   </div>
                 </div>
               </div>
